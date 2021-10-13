@@ -9,6 +9,8 @@
 - when the user opened the app, a browser window will be opened that display form to select a video
 - once the user select a video and click on 'get duration' button (form submission) a new message will be displayed bellow the form showing the video duration
 
+![screenshot](https://github.com/pedrasfloki/get-video-duration-electron/blob/main/get%20video%20duration.png)
+
 `application workflow`
 
 - no authentication will be required
@@ -28,4 +30,4 @@
 - html, css and bootstrap
 
 `Note:`  
-I created this application after i watched this tutorial, with some modification
+I created this application after i watched [this tutorial](https://www.youtube.com/watch?v=iJ18TIki0r4&list=PLtWy6rdN1yBntIyLeNo-fCVR6AaK7vdyl), with some modification
